@@ -23,7 +23,7 @@ requirements:
     - setuptools
   run:
     - python >=${{ python_min }}
-    - curl-cffi >=0.15.0
+    - curl-cffi >=0.17.0
     - scrapy >=2.13.4
 
 tests:
