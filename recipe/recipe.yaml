@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.10.2"
+  version: "1.11.0"
 
 package:
   name: scrapy-impersonate
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://github.com/jxlil/scrapy-impersonate/archive/refs/tags/${{ version }}.tar.gz
-  sha256: 03e264620d55333cf5c635c76902532bd9e56cff0d0aef67e5a52325168ba5ba
+  sha256: 7277320f3cd2c3acd06a8bb280a649709c1ef27233844b2767c00a4dd7d051aa
 
 build:
   number: 0
